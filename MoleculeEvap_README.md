@@ -17,3 +17,8 @@ The program then performs three calculations. First, it converts the input monol
 The final portion of the program is to aid a user who is in the lab alone, since they need both hands for operating the hardware, and it is tricky to see the computer screen or start a stopwatch while doing so. The program has a timer that makes a noise to count down until the deposition should be started. Once the countdown noise stops, the deposition substrate is quickly moved in front of the molecule evaporator. The program displays the temporal progression through the deposision. Once there are 10 seconds remaining in the deposition time, the program again plays a noise to indicate that the user should get ready to stop the deposition. Once the sound ends, the user quickly moves the deposition surface away from the evaporator. The evaporation is complete, all shutters can be closed, and the molecule crucible temperature can be lowered. 
 
 ![image](https://user-images.githubusercontent.com/78166226/137359334-12df3447-bd6a-4d57-98ac-f270f00d9f86.png)
+
+
+
+![image](https://user-images.githubusercontent.com/78166226/137360947-df6a80d8-15c2-4a1f-ac2c-9c42a3615c3d.png)
+
